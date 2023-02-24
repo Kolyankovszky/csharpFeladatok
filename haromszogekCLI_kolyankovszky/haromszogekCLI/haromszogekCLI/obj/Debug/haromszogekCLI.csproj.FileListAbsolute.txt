@@ -1,0 +1,16 @@
+C:\Users\kolyankovszkyg\source\repos\haromszogekCLI\haromszogekCLI\bin\Debug\haromszogek2.csv
+C:\Users\kolyankovszkyg\source\repos\haromszogekCLI\haromszogekCLI\bin\Debug\haromszogekCLI.exe.config
+C:\Users\kolyankovszkyg\source\repos\haromszogekCLI\haromszogekCLI\bin\Debug\haromszogekCLI.exe
+C:\Users\kolyankovszkyg\source\repos\haromszogekCLI\haromszogekCLI\bin\Debug\haromszogekCLI.pdb
+C:\Users\kolyankovszkyg\source\repos\haromszogekCLI\haromszogekCLI\obj\Debug\haromszogekCLI.csproj.AssemblyReference.cache
+C:\Users\kolyankovszkyg\source\repos\haromszogekCLI\haromszogekCLI\obj\Debug\haromszogekCLI.csproj.CoreCompileInputs.cache
+C:\Users\kolyankovszkyg\source\repos\haromszogekCLI\haromszogekCLI\obj\Debug\haromszogekCLI.exe
+C:\Users\kolyankovszkyg\source\repos\haromszogekCLI\haromszogekCLI\obj\Debug\haromszogekCLI.pdb
+C:\Users\USER\Szoftverfejlesztés\c#feladatok\haromszogekCLI_kolyankovszky\haromszogekCLI\haromszogekCLI\bin\Debug\haromszogek2.csv
+C:\Users\USER\Szoftverfejlesztés\c#feladatok\haromszogekCLI_kolyankovszky\haromszogekCLI\haromszogekCLI\bin\Debug\haromszogekCLI.exe.config
+C:\Users\USER\Szoftverfejlesztés\c#feladatok\haromszogekCLI_kolyankovszky\haromszogekCLI\haromszogekCLI\bin\Debug\haromszogekCLI.exe
+C:\Users\USER\Szoftverfejlesztés\c#feladatok\haromszogekCLI_kolyankovszky\haromszogekCLI\haromszogekCLI\bin\Debug\haromszogekCLI.pdb
+C:\Users\USER\Szoftverfejlesztés\c#feladatok\haromszogekCLI_kolyankovszky\haromszogekCLI\haromszogekCLI\obj\Debug\haromszogekCLI.csproj.AssemblyReference.cache
+C:\Users\USER\Szoftverfejlesztés\c#feladatok\haromszogekCLI_kolyankovszky\haromszogekCLI\haromszogekCLI\obj\Debug\haromszogekCLI.csproj.CoreCompileInputs.cache
+C:\Users\USER\Szoftverfejlesztés\c#feladatok\haromszogekCLI_kolyankovszky\haromszogekCLI\haromszogekCLI\obj\Debug\haromszogekCLI.exe
+C:\Users\USER\Szoftverfejlesztés\c#feladatok\haromszogekCLI_kolyankovszky\haromszogekCLI\haromszogekCLI\obj\Debug\haromszogekCLI.pdb
